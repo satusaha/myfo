@@ -1,0 +1,146 @@
+@media(min-width:992px) and (max-width:1199.98px){
+    #about .section_heading p {
+        font-size: 22px;
+        
+    }
+    #about .section_heading p span {
+        font-size: 30px;
+    }
+
+}
+
+@media(min-width:768px) and (max-width:991.98px){
+    #myNav ul li a {
+        padding: 20px 15px;
+    }
+    #banner .carousel-item {
+        height: 500px;
+     }
+     #banner .carousel-caption h1 {
+        font-size: 42px;
+        letter-spacing: 10px;
+        
+    }
+    /* #about .about_border {  kaj hoi na
+        
+        margin: 10px 0; 
+    } */
+    #about {
+        padding: 40px 0 80px 0;
+    }
+    #about p {
+        font-size: 18px;
+        line-height: 32px;
+        padding-bottom: 0;
+    }
+    #about .section_heading p span {
+        font-size: 24px;
+    }
+
+}
+
+@media(min-width:576px) and (max-width:767.98px){   /* 576-768 projonto*/
+
+    
+    #myNav ul li a {
+        padding: 20px 0;
+    }
+    #banner .carousel-item {
+        height: 450px;
+    }
+   
+    #banner .carousel-caption h1 {
+        font-size: 40px;
+        font-weight: 800;
+        letter-spacing: 14px;
+        
+    }
+    #banner .carousel-caption h3{
+        font-size: 20px;
+    }
+
+   
+}
+
+@media(max-width:767.98px){    /* (0- 576)common 0 theke 576 er moddhe eita common */
+    .customNav {
+        padding: 10px 0;
+    }
+
+    .about_border {
+        border-right: none;
+    }
+    #about .about_item {
+        padding: 26px 0;
+        border-bottom: 1px solid #ddd; 
+    }
+    .section_heading p {
+        padding-bottom: 0;
+    }
+    #service {
+       
+        height: 600px;
+        padding: 40px 0;
+        
+    }
+    .section_heading p span {
+        font-size: 14px;
+        font-weight: 600;
+    }
+   
+    .section_heading p {
+        font-size: 13px;
+        font-weight: 400;
+        line-height: 32px;
+    }
+    
+}
+
+@media (max-width:575.98px){    /*0-320*/
+    .section_heading p span {
+        font-size: 16px;
+        font-weight: 800;
+    }
+    .section_heading p {
+        line-height: 30px;
+    }
+    
+    #myNav ul li a {
+        padding: 8px 12px;
+    }
+
+    #banner .carousel-item {
+        height: 400px;
+    }
+    #banner .carousel-caption h3 {
+        font-size: 15px;
+        
+    }
+    #banner .carousel-caption h1 {
+        font-size: 25px;
+        letter-spacing: 8px;
+    }
+
+    #banner .carousel-caption p {
+        font-size: 14px;
+    }
+
+    #about {
+        padding: 35px 0 80px 0;
+    }
+    #banner .about_border {
+        border-right: none; 
+    }
+
+    #service {
+       
+        height: 925px;
+        padding: 20px 0;
+    }
+
+
+
+}
+
+/* video 50.30min er por amr common e prb */
+/* video 54min */
